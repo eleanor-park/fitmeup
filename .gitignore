@@ -18,7 +18,7 @@ dist/
 test-results/
 playwright-report/
 playwright/.cache/
-resources/
+server/src/main/resources/
 
 # mac
 .DS_Store
